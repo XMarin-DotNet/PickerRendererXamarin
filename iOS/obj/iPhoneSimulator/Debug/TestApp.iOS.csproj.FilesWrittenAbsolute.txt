@@ -1,0 +1,16 @@
+/Users/kamilwysocki/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/kamilwysocki/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/kamilwysocki/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/kamilwysocki/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/kamilwysocki/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/kamilwysocki/Desktop/TestApp/iOS/bin/iPhoneSimulator/Debug/TestApp.iOS.exe.mdb
+/Users/kamilwysocki/Desktop/TestApp/iOS/bin/iPhoneSimulator/Debug/TestApp.iOS.exe
+/Users/kamilwysocki/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/TestApp.iOS.exe
+/Users/kamilwysocki/Desktop/TestApp/iOS/obj/iPhoneSimulator/Debug/TestApp.iOS.exe.mdb
+/Users/kamilwysocki/Desktop/TestApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/kamilwysocki/Desktop/TestApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/kamilwysocki/Desktop/TestApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/kamilwysocki/Desktop/TestApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/kamilwysocki/Desktop/TestApp/iOS/bin/iPhoneSimulator/Debug/TestApp.dll
+/Users/kamilwysocki/Desktop/TestApp/iOS/bin/iPhoneSimulator/Debug/TestApp.dll.mdb
+/Users/kamilwysocki/Desktop/TestApp/iOS/bin/iPhoneSimulator/Debug/JPC.BindablePicker.dll

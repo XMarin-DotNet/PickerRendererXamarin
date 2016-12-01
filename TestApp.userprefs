@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E7160CF1-7EF9-4230-9623-C988C03D95FA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/CustomPickerRenderer.cs">
+    <Files>
+      <File FileName="TestApp/TestAppPage.xaml" Line="7" Column="1" />
+      <File FileName="TestApp/TestAppPage.xaml.cs" Line="13" Column="1" />
+      <File FileName="Droid/CustomPickerRenderer.cs" Line="22" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestApp.Droid PreferredExecutionTarget="Android.Nexus" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A21D5E60-B4E3-43EE-AF90-4A2AB4993571" />
+</Properties>

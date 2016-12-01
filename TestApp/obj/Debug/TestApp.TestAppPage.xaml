@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:TestApp" x:Class="TestApp.TestAppPage" xmlns:bp="clr-namespace:JPC.BindablePicker;assembly=JPC.BindablePicker">
+	<StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+		<bp:BindablePicker Title="Choose value" WidthRequest="100" HeightRequest="50" IsVisible="true" x:Name="MyPicker"></bp:BindablePicker>
+	</StackLayout>
+</ContentPage>
